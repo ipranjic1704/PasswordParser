@@ -1,0 +1,14 @@
+# NIKAD ne commitaj prave lozinke!
+*.csv
+lozinke.*
+Comet Passwords.csv
+
+# Visual Studio build / privremeno
+.vs/
+x64/
+Debug/
+Release/
+*.user
+
+# Dopusti primjer bez pravih podataka (ako ga napravis)
+!example.csv
